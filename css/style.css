@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bona+Nova:ital@1&family=Poppins:ital,wght@0,100;0,200;1,100&family=Work+Sans:ital,wght@1,600&display=swap');
+
+/*
+Thin 100
+Thin 100 Italic
+ExtraLight 200
+
+*/
+
+img{
+    width: 100%;
+}
+.firstpage{
+    background-image: url('../images/1.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+    min-height: 800px;
+   
+}
+.head{
+    color: rgb(216, 216, 50);
+    padding-top: 210px;
+}
+.head1{
+    color: aliceblue;
+}
+.paragraph{
+    color: aliceblue;
+}
+.button{
+    background-color: transparent;
+    border-color: yellow;
+    color: rgb(217, 232, 53);
+    font-weight: bold;
+    border-width: 2px;
+
+    
+}
+.secondpage{
+    text-align: center;
+}
+.services{
+    color: yellow;
+}
+
+.rounded-circle {
+    width: 200px; 
+    height: 200px;
+}
+
+.menuclass{
+    background-color: black;
+    
+    
+    
+}
+/*.thirdpage{
+    background-image: url('../images/2.jpg');
+    background-position: bottom center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*/
+.menu{
+    color: yellow;
+    text-align: center;
+}
+.cap{
+    color: aliceblue;
+}
+.buttonalign{
+    text-align: center;
+}
+.bi{
+   color: red;
+    
+}
+.size{
+    font-size: 15px;
+}
+.font{
+   font-family: 'Thin 100 Italic';
+}
+.item{
+    padding-top: 60px;
+}
+.clr{
+    color: lightyellow;
+}
+.im1{ max-height: 520px;}
