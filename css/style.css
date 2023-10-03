@@ -1,0 +1,85 @@
+.firstpage{
+    background-image: url('../images/2.jpg');
+    background-repeat: no-repeat;
+    min-height: 800px;
+    background-size: cover;
+    background-position: bottom center;
+    color: aliceblue;
+    
+   
+}
+img{
+    width: 100%;
+}
+.txt{
+    text-align:center;
+   
+}
+.secondpage{
+    margin-top: 50px;
+}
+.txt1{
+   margin-top: 380px;
+}
+.txt2{
+    color: orange;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.txt3{
+    color: darkgreen;
+    margin-left: 300px;
+    
+}
+.thirdpage{
+    background-image: url('../images/1.jpg');
+  
+    background-size: cover;
+    background-position: bottom center;
+   color: aliceblue;
+   
+ 
+}
+.bg{ padding-right: 150px; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+background-color: rgba(18, 243, 243,0.5);}
+.facility{
+    margin-top: 10px;
+   
+}
+.paragraph{
+    margin-top: 10px;
+   
+}
+.acc{
+    color: darkgreen;
+    text-align: center;
+}
+.fourthpage{
+margin-top: 50px;
+
+}
+.acc1{
+    text-align: center;
+}
+.fifthpage{
+    margin-top: 50px;
+}
+.sixthpage{
+    background-image: url('../images/5.jpg');
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+
+}
+.clr{
+    color: aliceblue;
+}
+.clr1{
+background-color: rgba(6, 66, 6, 0.6);
+padding-left: 220px;
+padding-right: 75px;
+padding-top: 100px;
+padding-bottom: 100px;
+}
